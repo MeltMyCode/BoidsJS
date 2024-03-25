@@ -205,7 +205,7 @@ ctx.lineWidth = 10;
 
 const boids = []
 
-for (let i = 0; i < 1000; i++){
+for (let i = 0; i < 300; i++){
     boids.push(new Boid(canvas))
 }
 
