@@ -8,6 +8,10 @@ It contains 3 files:
   - style.css
   - main.js
 
+For the code to work, you just need to put all the files in a folder, then open the main.html file. And here you go !
+Then you can play around with the value sliders to change how each rules affect the boids.
+
+
 *All the real code for the simulation is in the main.js file.*
 **How does it works :**
 In the js file, there's a Vector class, with different methods that makes easier everything about boids, such as their position, velocity, etc...
